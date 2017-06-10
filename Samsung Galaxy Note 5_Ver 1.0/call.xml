@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="EUC-KR" standalone="no"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<call>
+<type>sent</type>
+<number>01032847273</number>
+<time>09. 21 오전 6:45</time>
+</call>
+<call>
+<type>sent</type>
+<number>01032847273</number>
+<time>09. 21 오후 7:21</time>
+</call>
+<call>
+<type>received</type>
+<number>01053212555</number>
+<time>09. 22 오전 10:53</time>
+</call>
+<call>
+<type>absent</type>
+<number>01053212555</number>
+<time>09. 24 오전 11:21</time>
+</call>
+<call>
+<type>sent</type>
+<number>01053212555</number>
+<time>09. 25 오후 12:34</time>
+</call>
+<call>
+<type>received</type>
+<number>01023461209</number>
+<time>09. 26 오전 7:15</time>
+</call>
+<call>
+<type>absent</type>
+<number>01023461209</number>
+<time>09. 26 오후 11:54</time>
+</call>
+<call>
+<type>received</type>
+<number>01023461209</number>
+<time>09. 27 오후 11:59</time>
+</call>
+<call>
+<type>blocked</type>
+<number>0112316623</number>
+<time>09. 28 오전 06:12</time>
+</call>
+<call>
+<type>sent</type>
+<number>0112316623</number>
+<time>09. 28 오전 11:09</time>
+</call>
+<call>
+<type>sent</type>
+<number>01053568534</number>
+<time>10. 01 오후 4:02</time>
+</call>
+<call>
+<type>sent</type>
+<number>01053568534</number>
+<time>10. 02 오전 11:02</time>
+</call>
+<call>
+<type>received</type>
+<number>01053568534</number>
+<time>10. 02 오후 2:12</time>
+</call>
+<call>
+<type>sent</type>
+<number>01053568534</number>
+<time>10. 02 오후 7:02</time>
+</call>
+<call>
+<type>sent</type>
+<number>01044394673</number>
+<time>10. 03 오후 1:01</time>
+</call>
+<call>
+<type>sent</type>
+<number>01044394673</number>
+<time>10. 03 오후 4:42</time>
+</call>
+<call>
+<type>received</type>
+<number>01044394673</number>
+<time>10. 03 오후 8:22</time>
+</call>
+<call>
+<type>absent</type>
+<number>01056890978</number>
+<time>10. 04 오후 2:18</time>
+</call>
+<call>
+<type>sent</type>
+<number>01056890978</number>
+<time>10. 05 오후 7:22</time>
+</call>
+<call>
+<type>absent</type>
+<number>01056890978</number>
+<time>10. 05 오후 9:55</time>
+</call>
+</root>
